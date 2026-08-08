@@ -63,10 +63,3 @@
 - [Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide)
 
 
-
-# 与我联系
-
-<div align="center">
-  <a href="https://github.com/Cyph3rLab"><img src="https://img.shields.io/badge/GitHub-Cyph3rLab-181717?logo=github" alt="GitHub"></a>
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-联系我-D14836?logo=gmail" alt="Email"></a>
-</div>
