@@ -69,7 +69,6 @@
 - [Arch Wiki](https://wiki.archlinux.org/title/Main_page) —— 无可替代的权威参考
 - [Arch Linux CN 社区](https://www.archlinuxcn.org/) —— 中文用户的宝贵资源
 - [Reddit r/archlinux](https://www.reddit.com/r/archlinux/) —— 社区讨论与经验分享
-- [bilibili 相关技术区 UP 主](https://space.bilibili.com) —— 中文 Linux 内容创作者
 - [Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide) —— 本仓库的重要参考与灵感来源
 
 ---
